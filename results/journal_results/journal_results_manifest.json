@@ -1,0 +1,75 @@
+{
+  "created_utc": "2026-02-23T17:23:55.816447+00:00",
+  "journal_results_dir": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results",
+  "source_artifacts": {
+    "prepared_features_path": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/prepared_feature_dataset.joblib",
+    "surrogate_manifest_path": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/surrogate_training_manifest.json",
+    "surrogate_eval_report_path": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/surrogate_evaluation_report.json",
+    "conformal_bounds_path": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/conformal_bounds_summary.json",
+    "time_split_manifest_path": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/time_splits/time_split_manifest.json",
+    "crc_manifest_path": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/crc_classifiers/crc_classifier_manifest.json"
+  },
+  "tables": {
+    "table_01_dataset_split_overview": {
+      "csv": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results/table_01_dataset_split_overview.csv",
+      "txt": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results/table_01_dataset_split_overview.txt",
+      "tex": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results/table_01_dataset_split_overview.tex"
+    },
+    "table_02_dataset_variable_summary_overall": {
+      "csv": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results/table_02_dataset_variable_summary_overall.csv",
+      "txt": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results/table_02_dataset_variable_summary_overall.txt",
+      "tex": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results/table_02_dataset_variable_summary_overall.tex"
+    },
+    "table_03_dataset_variable_summary_by_split": {
+      "csv": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results/table_03_dataset_variable_summary_by_split.csv",
+      "txt": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results/table_03_dataset_variable_summary_by_split.txt",
+      "tex": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results/table_03_dataset_variable_summary_by_split.tex"
+    },
+    "table_04_feature_set_by_target": {
+      "csv": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results/table_04_feature_set_by_target.csv",
+      "txt": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results/table_04_feature_set_by_target.txt",
+      "tex": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results/table_04_feature_set_by_target.tex"
+    },
+    "table_05_surrogate_hyperparameters": {
+      "csv": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results/table_05_surrogate_hyperparameters.csv",
+      "txt": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results/table_05_surrogate_hyperparameters.txt",
+      "tex": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results/table_05_surrogate_hyperparameters.tex"
+    },
+    "table_06_trained_surrogate_registry": {
+      "csv": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results/table_06_trained_surrogate_registry.csv",
+      "txt": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results/table_06_trained_surrogate_registry.txt",
+      "tex": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results/table_06_trained_surrogate_registry.tex"
+    },
+    "table_07_point_model_metrics_by_split": {
+      "csv": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results/table_07_point_model_metrics_by_split.csv",
+      "txt": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results/table_07_point_model_metrics_by_split.txt",
+      "tex": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results/table_07_point_model_metrics_by_split.tex"
+    },
+    "table_08_quantile_model_metrics_by_split": {
+      "csv": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results/table_08_quantile_model_metrics_by_split.csv",
+      "txt": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results/table_08_quantile_model_metrics_by_split.txt",
+      "tex": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results/table_08_quantile_model_metrics_by_split.tex"
+    },
+    "table_09_conformal_coverage_by_alpha": {
+      "csv": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results/table_09_conformal_coverage_by_alpha.csv",
+      "txt": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results/table_09_conformal_coverage_by_alpha.txt",
+      "tex": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results/table_09_conformal_coverage_by_alpha.tex"
+    },
+    "table_10_crc_classifier_summary": {
+      "csv": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results/table_10_crc_classifier_summary.csv",
+      "txt": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results/table_10_crc_classifier_summary.txt",
+      "tex": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results/table_10_crc_classifier_summary.tex"
+    },
+    "table_11_feature_importance_top20": {
+      "csv": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results/table_11_feature_importance_top20.csv",
+      "txt": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results/table_11_feature_importance_top20.txt",
+      "tex": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results/table_11_feature_importance_top20.tex"
+    },
+    "table_12_target_correlation_matrix": {
+      "csv": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results/table_12_target_correlation_matrix.csv",
+      "txt": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results/table_12_target_correlation_matrix.txt",
+      "tex": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results/table_12_target_correlation_matrix.tex"
+    }
+  },
+  "summary_report": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/journal_results/journal_results_summary.md"
+}

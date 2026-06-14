@@ -1,0 +1,9 @@
+\begin{tabular}{lrrrrlll}
+\toprule
+target & n\_features & n\_base\_exogenous\_features & n\_time\_features & n\_lag\_features & lag\_orders & lag\_sources & feature\_columns \\
+\midrule
+TIT & 13 & 5 & 3 & 5 & 1 & CDP,GTEP,TAT,TEY,TIT & AT;AP;AH;AFDP;TEY;hour\_of\_day;hod\_sin;hod\_cos;TEY\_lag1;TIT\_lag1;GTEP\_lag1;TAT\_lag1;CDP\_lag1 \\
+NOX & 26 & 5 & 3 & 18 & 1,2,3 & CDP,GTEP,NOX,TAT,TEY,TIT & AT;AP;AH;AFDP;TEY;hour\_of\_day;hod\_sin;hod\_cos;TEY\_lag1;TIT\_lag1;GTEP\_lag1;TAT\_lag1;CDP\_lag1;TEY\_lag2;TEY\_lag3;TIT\_lag2;TIT\_lag3;GTEP\_lag2;GTEP\_lag3;TAT\_lag2;TAT\_lag3;CDP\_lag2;CDP\_lag3;NOX\_lag1;NOX\_lag2;NOX\_lag3 \\
+CO & 31 & 5 & 3 & 23 & 1,2,3,6,12,24 & CDP,CO,GTEP,NOX,TAT,TEY,TIT & AT;AP;AH;AFDP;TEY;hour\_of\_day;hod\_sin;hod\_cos;TEY\_lag1;TIT\_lag1;GTEP\_lag1;TAT\_lag1;CDP\_lag1;TEY\_lag2;TEY\_lag3;TIT\_lag2;TIT\_lag3;GTEP\_lag2;GTEP\_lag3;TAT\_lag2;TAT\_lag3;CDP\_lag2;CDP\_lag3;NOX\_lag2;NOX\_lag3;CO\_lag1;CO\_lag2;CO\_lag3;CO\_lag6;CO\_lag12;CO\_lag24 \\
+\bottomrule
+\end{tabular}

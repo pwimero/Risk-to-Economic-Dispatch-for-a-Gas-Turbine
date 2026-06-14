@@ -1,0 +1,24 @@
+{
+  "data_path": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/time_indexed_dataset.csv",
+  "split_dir": "/Users/primero/Library/CloudStorage/OneDrive-CityStGeorge's,UniversityofLondon/School/Year 4/INDIVIDUAL PROJECT/results/time_splits",
+  "n_total": 36733,
+  "n_train": 25713,
+  "n_calib": 5509,
+  "n_test": 5511,
+  "train_range_hour_idx": [
+    0,
+    25712
+  ],
+  "calib_range_hour_idx": [
+    25713,
+    31221
+  ],
+  "test_range_hour_idx": [
+    31222,
+    36732
+  ],
+  "notes": [
+    "Contiguous time blocks to avoid leakage (no shuffling).",
+    "Keep calibration untouched for conformal residual quantiles."
+  ]
+}

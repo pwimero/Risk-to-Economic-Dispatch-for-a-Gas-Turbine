@@ -1,0 +1,4 @@
+target,n_features,n_base_exogenous_features,n_time_features,n_lag_features,lag_orders,lag_sources,feature_columns
+TIT,13,5,3,5,1,"CDP,GTEP,TAT,TEY,TIT",AT;AP;AH;AFDP;TEY;hour_of_day;hod_sin;hod_cos;TEY_lag1;TIT_lag1;GTEP_lag1;TAT_lag1;CDP_lag1
+NOX,26,5,3,18,"1,2,3","CDP,GTEP,NOX,TAT,TEY,TIT",AT;AP;AH;AFDP;TEY;hour_of_day;hod_sin;hod_cos;TEY_lag1;TIT_lag1;GTEP_lag1;TAT_lag1;CDP_lag1;TEY_lag2;TEY_lag3;TIT_lag2;TIT_lag3;GTEP_lag2;GTEP_lag3;TAT_lag2;TAT_lag3;CDP_lag2;CDP_lag3;NOX_lag1;NOX_lag2;NOX_lag3
+CO,31,5,3,23,"1,2,3,6,12,24","CDP,CO,GTEP,NOX,TAT,TEY,TIT",AT;AP;AH;AFDP;TEY;hour_of_day;hod_sin;hod_cos;TEY_lag1;TIT_lag1;GTEP_lag1;TAT_lag1;CDP_lag1;TEY_lag2;TEY_lag3;TIT_lag2;TIT_lag3;GTEP_lag2;GTEP_lag3;TAT_lag2;TAT_lag3;CDP_lag2;CDP_lag3;NOX_lag2;NOX_lag3;CO_lag1;CO_lag2;CO_lag3;CO_lag6;CO_lag12;CO_lag24

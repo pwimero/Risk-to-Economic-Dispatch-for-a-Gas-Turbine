@@ -1,0 +1,5 @@
+split  n_rows  pct_rows  hour_idx_start  hour_idx_end  duration_days_approx
+train   25689   69.9801              24         25712               1070.38
+calib    5509   15.0072           25713         31221               229.542
+ test    5511   15.0127           31222         36732               229.625
+  all   36709       100              24         36732               1529.54
